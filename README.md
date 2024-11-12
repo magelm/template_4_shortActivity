@@ -1,22 +1,25 @@
 # template_4_shortActivity (Replace for Course Title)
 
 ### Course Title
-
+How to create reusable training materials.
+- Quick & Dirty training material based on Workshop at BioNT
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Marc-André Hermanns | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-3895-7791) |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Maja Magel | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) |
 
 ### About this course
 
-This course .... Add a general description
+This course will give a short introduction in how to create FAIR training material [WIP and quick & dirty].
 
 ### Material license
 
-<img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" title="" alt="" width="143">
 
-[**CC-BY**](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 > **Soon suggestion on how to make the citation.**
 
